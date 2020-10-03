@@ -53,7 +53,7 @@ public class ProductInfo {
 			loginLink = loginButton.get(i).getAttribute("href");
 		}
 
-		// Login screen
+		// The login screen
 		driver.get(loginLink);
 		
 
